@@ -1,0 +1,9 @@
+diff a/Assets/Scripts/Match/Skill.cs b/Assets/Scripts/Match/Skill.cs	(rejected hunks)
+@@ -16,6 +16,7 @@
+     [SerializeField]
+     private SO_process setOnShootProcess;
+ 
++    [SerializeField]
+     private SO_process setOnSpinTower;
+ 
+     public void UseFireworks()

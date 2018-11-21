@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1065dd26c7fdeb43be7653bdeb89385, type: 3}
+  m_Name: GrenadeSkill
+  m_EditorClassIdentifier: 
+  IgnoresQueue: 0
+  StopsMainOwnerProcess: 0
+  StopsMainOpponentProcess: 0
+  StopsMainNeutralProcess: 0
+  Behaviours:
+  - {fileID: 11400000, guid: 0f7978e8499bb444da621b6e70f2631e, type: 2}
+  EffectsOnEnemy:
+  - {fileID: 11400000, guid: ed4f66c6ffb429342aec1e0b5de6259c, type: 2}
+  EffectsOnPlayer: []

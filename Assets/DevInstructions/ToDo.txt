@@ -1,0 +1,15 @@
+
+-> Parametry gracz i przeciwnika
+
+-> Skills - system
+
+-> Zrobic animacje startu po tym jak sie nacisnie start, a nie ze samo sie robi po odpaleniu gry
+
+-> Zmieñ, ¿e obiekt do kontrolera i kontroler do obiektu - TAK NIE MOZE BYC, tylko w jedna strone.
+
+-> Bazowa klasa player i enemy dodaæ metodê pause i resume. I to controller im to wywoluje, a enemy np. update wylacza na pauzie
+---> w ogóle zrobiæ IPausable interfejs i ten bazowy TapObjectEffective go implementuje
+
+-> Jak to ma wygladac, ze koniec gry, a potem od nowa sa ludziki, jakie przejscie mapy/obiektow. Moze caly panel to przykrywa
+
+-> Make TapPuzzle prefab with graphics for 2D (last task)

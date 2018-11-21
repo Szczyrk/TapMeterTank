@@ -1,0 +1,208 @@
+fileFormatVersion: 2
+guid: d818dbe4ef63c0746aed1db5d80af86e
+timeCreated: 1459970459
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Construction2
+    100004: Construction2_Cabin_Bot
+    100006: Construction2_Cabin_SteeringWheel
+    100008: Construction2_Cabin_Top
+    100010: Construction2_Door_L
+    100012: Construction2_Door_R
+    100014: Construction2_Front
+    100016: Construction2_Front_Mudguard_L
+    100018: Construction2_Front_Mudguard_R
+    100020: Construction2_Stairs_L
+    100022: Construction2_Stairs_R
+    100024: Construction2_Wheel_FL
+    100026: Construction2_Wheel_FR
+    100028: Construction2_Wheel_RL
+    100030: Construction2_Wheel_RR
+    100032: Construction2_Window_F
+    100034: Construction2_Window_FL
+    100036: Construction2_Window_FR
+    100038: Construction2_Window_R
+    100040: Construction2_Window_RL
+    100042: Construction2_Window_RR
+    100044: Construction2_Window_Tessellate_F
+    100046: Construction2_Window_Tessellate_FL
+    100048: Construction2_Window_Tessellate_FR
+    100050: Construction2_Window_Tessellate_R
+    100052: Construction2_Window_Tessellate_RL
+    100054: Construction2_Window_Tessellate_RR
+    400000: //RootNode
+    400002: Construction2
+    400004: Construction2_Cabin_Bot
+    400006: Construction2_Cabin_SteeringWheel
+    400008: Construction2_Cabin_Top
+    400010: Construction2_Door_L
+    400012: Construction2_Door_R
+    400014: Construction2_Front
+    400016: Construction2_Front_Mudguard_L
+    400018: Construction2_Front_Mudguard_R
+    400020: Construction2_Stairs_L
+    400022: Construction2_Stairs_R
+    400024: Construction2_Wheel_FL
+    400026: Construction2_Wheel_FR
+    400028: Construction2_Wheel_RL
+    400030: Construction2_Wheel_RR
+    400032: Construction2_Window_F
+    400034: Construction2_Window_FL
+    400036: Construction2_Window_FR
+    400038: Construction2_Window_R
+    400040: Construction2_Window_RL
+    400042: Construction2_Window_RR
+    400044: Construction2_Window_Tessellate_F
+    400046: Construction2_Window_Tessellate_FL
+    400048: Construction2_Window_Tessellate_FR
+    400050: Construction2_Window_Tessellate_R
+    400052: Construction2_Window_Tessellate_RL
+    400054: Construction2_Window_Tessellate_RR
+    2300000: Construction2
+    2300002: Construction2_Cabin_Bot
+    2300004: Construction2_Cabin_SteeringWheel
+    2300006: Construction2_Cabin_Top
+    2300008: Construction2_Door_L
+    2300010: Construction2_Door_R
+    2300012: Construction2_Front
+    2300014: Construction2_Front_Mudguard_L
+    2300016: Construction2_Front_Mudguard_R
+    2300018: Construction2_Stairs_L
+    2300020: Construction2_Stairs_R
+    2300022: Construction2_Wheel_FL
+    2300024: Construction2_Wheel_FR
+    2300026: Construction2_Wheel_RL
+    2300028: Construction2_Wheel_RR
+    2300030: Construction2_Window_F
+    2300032: Construction2_Window_FL
+    2300034: Construction2_Window_FR
+    2300036: Construction2_Window_R
+    2300038: Construction2_Window_RL
+    2300040: Construction2_Window_RR
+    2300042: Construction2_Window_Tessellate_F
+    2300044: Construction2_Window_Tessellate_FL
+    2300046: Construction2_Window_Tessellate_FR
+    2300048: Construction2_Window_Tessellate_R
+    2300050: Construction2_Window_Tessellate_RL
+    2300052: Construction2_Window_Tessellate_RR
+    3300000: Construction2
+    3300002: Construction2_Cabin_Bot
+    3300004: Construction2_Cabin_SteeringWheel
+    3300006: Construction2_Cabin_Top
+    3300008: Construction2_Door_L
+    3300010: Construction2_Door_R
+    3300012: Construction2_Front
+    3300014: Construction2_Front_Mudguard_L
+    3300016: Construction2_Front_Mudguard_R
+    3300018: Construction2_Stairs_L
+    3300020: Construction2_Stairs_R
+    3300022: Construction2_Wheel_FL
+    3300024: Construction2_Wheel_FR
+    3300026: Construction2_Wheel_RL
+    3300028: Construction2_Wheel_RR
+    3300030: Construction2_Window_F
+    3300032: Construction2_Window_FL
+    3300034: Construction2_Window_FR
+    3300036: Construction2_Window_R
+    3300038: Construction2_Window_RL
+    3300040: Construction2_Window_RR
+    3300042: Construction2_Window_Tessellate_F
+    3300044: Construction2_Window_Tessellate_FL
+    3300046: Construction2_Window_Tessellate_FR
+    3300048: Construction2_Window_Tessellate_R
+    3300050: Construction2_Window_Tessellate_RL
+    3300052: Construction2_Window_Tessellate_RR
+    4300000: Construction2
+    4300002: Construction2_Wheel_RL
+    4300004: Construction2_Wheel_RR
+    4300006: Construction2_Wheel_FR
+    4300008: Construction2_Wheel_FL
+    4300010: Construction2_Stairs_L
+    4300012: Construction2_Stairs_R
+    4300014: Construction2_Door_R
+    4300016: Construction2_Door_L
+    4300018: Construction2_Cabin_Bot
+    4300020: Construction2_Cabin_Top
+    4300022: Construction2_Front
+    4300024: Construction2_Front_Mudguard_L
+    4300026: Construction2_Front_Mudguard_R
+    4300028: Construction2_Window_R
+    4300030: Construction2_Window_F
+    4300032: Construction2_Window_RL
+    4300034: Construction2_Window_FL
+    4300036: Construction2_Window_RR
+    4300038: Construction2_Window_FR
+    4300040: Construction2_Window_Tessellate_FL
+    4300042: Construction2_Window_Tessellate_F
+    4300044: Construction2_Window_Tessellate_RL
+    4300046: Construction2_Window_Tessellate_R
+    4300048: Construction2_Window_Tessellate_RR
+    4300050: Construction2_Window_Tessellate_FR
+    4300052: Construction2_Cabin_SteeringWheel
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

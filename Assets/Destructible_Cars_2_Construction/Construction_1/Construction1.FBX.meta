@@ -1,0 +1,341 @@
+fileFormatVersion: 2
+guid: 3a6f9736415247c448f4a5f92fbd6562
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Construction1
+    100004: Construction1_Barrier
+    100006: Construction1_Cabin_Bot
+    100008: Construction1_Cabin_Mirror
+    100010: Construction1_Cabin_Top
+    100012: Construction1_Door
+    100014: Construction1_Mirrors_R
+    100016: Construction1_Node01
+    100018: Construction1_Node02
+    100020: Construction1_Node03
+    100022: Construction1_Node04
+    100024: Construction1_Node05
+    100026: Construction1_Node06
+    100028: Construction1_Node07
+    100030: Construction1_Node08
+    100032: Construction1_Node09
+    100034: Construction1_Node10
+    100036: Construction1_Node11
+    100038: Construction1_Node12
+    100040: Construction1_Node13
+    100042: Construction1_Stairs_L
+    100044: Construction1_Stairs_R
+    100046: Construction1_SteringWheel
+    100048: Construction1_Top
+    100050: Construction1_Wheel_FL
+    100052: Construction1_Wheel_FR
+    100054: Construction1_Wheel_RL
+    100056: Construction1_Wheel_RR
+    100058: Construction1_Window_F
+    100060: Construction1_Window_FL
+    100062: Construction1_Window_R
+    100064: Construction1_Window_Rear
+    100066: Construction1_Window_RL
+    100068: Construction1_Window_T
+    400000: //RootNode
+    400002: Construction1
+    400004: Construction1_Barrier
+    400006: Construction1_Cabin_Bot
+    400008: Construction1_Cabin_Mirror
+    400010: Construction1_Cabin_Top
+    400012: Construction1_Door
+    400014: Construction1_Mirrors_R
+    400016: Construction1_Node01
+    400018: Construction1_Node02
+    400020: Construction1_Node03
+    400022: Construction1_Node04
+    400024: Construction1_Node05
+    400026: Construction1_Node06
+    400028: Construction1_Node07
+    400030: Construction1_Node08
+    400032: Construction1_Node09
+    400034: Construction1_Node10
+    400036: Construction1_Node11
+    400038: Construction1_Node12
+    400040: Construction1_Node13
+    400042: Construction1_Stairs_L
+    400044: Construction1_Stairs_R
+    400046: Construction1_SteringWheel
+    400048: Construction1_Top
+    400050: Construction1_Wheel_FL
+    400052: Construction1_Wheel_FR
+    400054: Construction1_Wheel_RL
+    400056: Construction1_Wheel_RR
+    400058: Construction1_Window_F
+    400060: Construction1_Window_FL
+    400062: Construction1_Window_R
+    400064: Construction1_Window_Rear
+    400066: Construction1_Window_RL
+    400068: Construction1_Window_T
+    2300000: Construction1_Barrier
+    2300002: Construction1_Cabin_Bot
+    2300004: Construction1_Cabin_Mirror
+    2300006: Construction1_Cabin_Top
+    2300008: Construction1_Door
+    2300010: Construction1_Mirrors_R
+    2300012: Construction1_Stairs_L
+    2300014: Construction1_Stairs_R
+    2300016: Construction1_SteringWheel
+    2300018: Construction1_Top
+    2300020: Construction1_Wheel_FL
+    2300022: Construction1_Wheel_FR
+    2300024: Construction1_Wheel_RL
+    2300026: Construction1_Wheel_RR
+    2300028: Construction1_Window_F
+    2300030: Construction1_Window_FL
+    2300032: Construction1_Window_R
+    2300034: Construction1_Window_Rear
+    2300036: Construction1_Window_RL
+    2300038: Construction1_Window_T
+    3300000: Construction1_Barrier
+    3300002: Construction1_Cabin_Bot
+    3300004: Construction1_Cabin_Mirror
+    3300006: Construction1_Cabin_Top
+    3300008: Construction1_Door
+    3300010: Construction1_Mirrors_R
+    3300012: Construction1_Stairs_L
+    3300014: Construction1_Stairs_R
+    3300016: Construction1_SteringWheel
+    3300018: Construction1_Top
+    3300020: Construction1_Wheel_FL
+    3300022: Construction1_Wheel_FR
+    3300024: Construction1_Wheel_RL
+    3300026: Construction1_Wheel_RR
+    3300028: Construction1_Window_F
+    3300030: Construction1_Window_FL
+    3300032: Construction1_Window_R
+    3300034: Construction1_Window_Rear
+    3300036: Construction1_Window_RL
+    3300038: Construction1_Window_T
+    4300000: Construction1
+    4300002: Construction1_Door
+    4300004: Construction1_Top
+    4300006: Construction1_Stairs_L
+    4300008: Construction1_Stairs_R
+    4300010: Construction1_Wheel_FL
+    4300012: Construction1_Wheel_RL
+    4300014: Construction1_Wheel_FR
+    4300016: Construction1_Wheel_RR
+    4300018: Construction1_Cabin_Bot
+    4300020: Construction1_Cabin_Top
+    4300022: Construction1_Cabin_Mirror
+    4300024: Construction1_SteringWheel
+    4300026: Construction1_Window_FL
+    4300028: Construction1_Window_RL
+    4300030: Construction1_Window_F
+    4300032: Construction1_Window_Rear
+    4300034: Construction1_Window_T
+    4300036: Construction1_Window_R
+    4300038: Construction1_Mirrors_R
+    4300040: Construction1_Barrier
+    7400000: Stabilizer
+    9500000: //RootNode
+    13700000: Construction1
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Construction1_Body
+    second: {fileID: 2100000, guid: 020dc800ac34ae44bb8831e9e252356c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Construction1_Glass
+    second: {fileID: 2100000, guid: 0b8ca8811edd5f049b7a12e7badf5a20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Construction1_Matte
+    second: {fileID: 2100000, guid: 3aeea2e541603054e9c8b8319e460d71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Construction1_Tailights9-16
+    second: {fileID: 2100000, guid: cfd35fd7282e2f64c94d0c649fb1427e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Stabilizer
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 100
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Construction1
+        weight: 1
+      - path: Construction1_Barrier
+        weight: 1
+      - path: Construction1_Cabin_Bot
+        weight: 1
+      - path: Construction1_Cabin_Mirror
+        weight: 1
+      - path: Construction1_Cabin_Top
+        weight: 1
+      - path: Construction1_Door
+        weight: 1
+      - path: Construction1_Mirrors_R
+        weight: 1
+      - path: Construction1_Node01
+        weight: 1
+      - path: Construction1_Node01/Construction1_Node02
+        weight: 1
+      - path: Construction1_Node01/Construction1_Node03
+        weight: 1
+      - path: Construction1_Node01/Construction1_Node03/Construction1_Node04
+        weight: 1
+      - path: Construction1_Node01/Construction1_Node05
+        weight: 1
+      - path: Construction1_Node01/Construction1_Node06
+        weight: 1
+      - path: Construction1_Node01/Construction1_Node07
+        weight: 1
+      - path: Construction1_Node01/Construction1_Node08
+        weight: 1
+      - path: Construction1_Node01/Construction1_Node08/Construction1_Node09
+        weight: 1
+      - path: Construction1_Node01/Construction1_Node10
+        weight: 1
+      - path: Construction1_Node01/Construction1_Node11
+        weight: 1
+      - path: Construction1_Node01/Construction1_Node12
+        weight: 1
+      - path: Construction1_Node01/Construction1_Node12/Construction1_Node13
+        weight: 1
+      - path: Construction1_Stairs_L
+        weight: 1
+      - path: Construction1_Stairs_R
+        weight: 1
+      - path: Construction1_SteringWheel
+        weight: 1
+      - path: Construction1_Top
+        weight: 1
+      - path: Construction1_Wheel_FL
+        weight: 1
+      - path: Construction1_Wheel_FR
+        weight: 1
+      - path: Construction1_Wheel_RL
+        weight: 1
+      - path: Construction1_Wheel_RR
+        weight: 1
+      - path: Construction1_Window_F
+        weight: 1
+      - path: Construction1_Window_FL
+        weight: 1
+      - path: Construction1_Window_R
+        weight: 1
+      - path: Construction1_Window_Rear
+        weight: 1
+      - path: Construction1_Window_RL
+        weight: 1
+      - path: Construction1_Window_T
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

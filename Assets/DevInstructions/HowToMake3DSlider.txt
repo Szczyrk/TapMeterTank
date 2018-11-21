@@ -1,0 +1,15 @@
+Problem: pivot of 3D object need to be set to the very left so scaling an object looks like the bar is going to the right
+
+1. ProBuilder asset is used for that.
+2. The new pivot will be (0,0,0) world position so move/rotate as you want according to that. And REMEMBER that a good practice is to unparent the object first, so you can see object's world position (not local position).
+3. Select the object that will be the slider.
+4. Open Tools->ProBuilder->Object->ProBuilderize*.
+5. You will see a new script attached to the object (probably "Pb_Object").
+6. Click "Open ProBuilder" button that is shown in inspector when the object is selected.
+7. Click "Freeze Transform" which will move pivot to (0,0,0) world position.
+8. It's done :)
+
+
+
+
+* If you want to remove the extra probuilder scripts from your object -  Tools->Probuilder->Actions->Strip ProBuilder Scripts In Selection

@@ -1,0 +1,10 @@
+
+ASSETS
+https://assetstore.unity.com/packages/3d/environments/industrial/simplicity-construction-yard-72569
+https://assetstore.unity.com/packages/3d/vehicles/land/low-poly-destructible-cars-2-construction-69084
+
+
+1. Add possbility to have many TapControllers in a game.
+	This will require:
+		- Add argument TapPuzzleController to all "match" events
+		- Objects like game over panel need to check is the won/lost, etc. events call from desired controller
